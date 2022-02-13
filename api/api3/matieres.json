@@ -1,0 +1,51 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "matieres": [
+    {
+      "nom": "javascript ES6",
+      "coef": "6",
+      "id": 2
+    },
+    {
+      "nom": "hmd",
+      "coef": "7",
+      "id": 3
+    },
+    {
+      "nom": "API",
+      "coef": "6",
+      "id": 4
+    },
+    {
+      "nom": "testPHP",
+      "coef": "7",
+      "id": 5
+    },
+    {
+      "nom": "test5",
+      "coef": "5",
+      "id": 6
+    },
+    {
+      "nom": "test 33",
+      "coef": "3",
+      "id": 7
+    }
+  ]
+}

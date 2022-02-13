@@ -1,0 +1,29 @@
+{
+  "produits": [
+    {
+      "libelle": "sony vaio",
+      "prix": "5000",
+      "id": 7
+    },
+    {
+      "libelle": "acer a7",
+      "prix": "8000",
+      "id": 8
+    },
+    {
+      "libelle": "test",
+      "prix": "7000",
+      "id": 9
+    },
+    {
+      "libelle": "ACER v7",
+      "prix": "9000",
+      "id": 10
+    },
+    {
+      "id": 314,
+      "libelle": "iMac pro",
+      "prix": "4500"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "produits": [
+    {
+      "libelle": "sony vaio",
+      "prix": "5000",
+      "qtestock": "5",
+      "id": 7
+    },
+    {
+      "libelle": "acer a7",
+      "prix": "8000",
+      "qtestock": "19",
+      "id": 8
+    },
+    {
+      "libelle": "test",
+      "prix": "7000",
+      "qtestock": "8",
+      "id": 9
+    }
+  ]
+}

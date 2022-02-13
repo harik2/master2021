@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Introduction JS</title>
+</head>
+<body>
+    <form action="destination.php" class="monform">
+        Email : <input type="text" name="email" id="email"> <br>
+        Mot de passe : <input type="password" name="email" id="mdp"> <br>
+        Confirmation du mot de passe  : <input type="password" name="conf" id="conf"> <br>
+        <!-- <button onclick="validerMotDePasse()"  type="button"> Valider</button> -->
+        <button> Valider</button>
+    </form>
+
+  
+<script src="destination.html"></script>   
+<script>
+let b= document.querySelector('button');
+b.addEventListener("click",(event)=>{
+// console.log(event);
+event.preventDefault();//annule le comportement par defaut (ici c le click sur le bouton)
+// validerMotDePasse;//reference de la fonction
+//  validerMotDePasse();//executer de la fonction
+{
+var  x=3;
+
+
+}
+console.log('x est '+x);
+});
+// b.onmouseover=()=>{alert('ok')};//arrow function 
+</script> 
+</body>
+</html>

@@ -1,0 +1,24 @@
+{
+  "personnes": [
+    {
+      "id": 2,
+      "nom": "harik",
+      "prenom": "mohamed",
+      "age": 20
+    },
+    {
+      "nom": "harik",
+      "age": "30",
+      "prenom": "mohamed",
+      "index": 0,
+      "id": 3
+    },
+    {
+      "id": 4,
+      "nom": "test",
+      "age": "18",
+      "prenom": "89",
+      "index": 0
+    }
+  ]
+}
